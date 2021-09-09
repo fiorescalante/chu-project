@@ -1,3 +1,4 @@
+print("chu te amooo")
 n= int(input("ingrese la cant de terminos: "))
 cont=0
 i=1
@@ -14,12 +15,6 @@ while cont<n:
 
 
 
-        else:
-            sum+=1/i
-            print("suma", sum)
 
-
-    i+=1
-print(sum)
 
 #1/0! + 1/2! + 1/3!
